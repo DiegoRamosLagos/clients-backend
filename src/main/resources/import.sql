@@ -1,0 +1,10 @@
+INSERT INTO clients (name, last_name, email, create_at) VALUES ('Caroline','Vergara','ac.libero.nec@orcitincidunt.net','2019-12-11');
+INSERT INTO clients (name, last_name, email, create_at) VALUES('Yeremy','Morales','Sed.neque@pretium.net','2019-10-23');
+INSERT INTO clients (name, last_name, email, create_at) VALUES('Yojhan','Fernández','lorem.ac.risus@sollicitudin.com','2019-09-28');
+INSERT INTO clients (name, last_name, email, create_at) VALUES('Betzabeth','Escobar','gravida@dolorFusce.co.uk','2019-09-07');
+INSERT INTO clients (name, last_name, email, create_at) VALUES('Maciel','Reyes','Nunc@dignissim.org','2019-09-17');
+INSERT INTO clients (name, last_name, email, create_at) VALUES('Misael','Cárdenas','montes.nascetur.ridiculus@arcuiaculis.net','2019-04-29');
+INSERT INTO clients (name, last_name, email, create_at) VALUES('Agustina','Aguilera','magna@ametconsectetuer.edu','2019-03-09');
+INSERT INTO clients (name, last_name, email, create_at) VALUES('Mayra','Vásquez','est@erosnonenim.org','2019-06-08');
+INSERT INTO clients (name, last_name, email, create_at) VALUES('Cristhoper','Carvajal','ante@erat.net','2019-12-11');
+INSERT INTO clients (name, last_name, email, create_at) VALUES('Miqueas','Gutiérrez','cursus@bibendum.ca','2019-08-15');
